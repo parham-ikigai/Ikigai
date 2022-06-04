@@ -1,6 +1,5 @@
 {
   "name": "ikigai_data",
-  "homepage": "https://parham-ikigai.github.io/Ikigai",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
